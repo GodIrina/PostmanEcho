@@ -40,10 +40,6 @@ public class PostmanEchoTest {
         ;
     }
 
-
-
-
-
     @Test
     public void shouldSendRequestBody3() {
         // Given - When - Then
